@@ -1,5 +1,5 @@
--- #Beyond Reborn Robot
--- #
+-- #sphr_team
+-- #tel: @mrsepehr_ms
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -19,7 +19,7 @@ local notify = lgi.require('Notify')
 notify.init ("Telegram updates")
 chats = {}
 plugins = {}
-helper_id = 987654321 --Put Your Helper Bot ID Here
+helper_id = 364548904 --Put Your Helper Bot ID Here
 
 function do_notify (user, msg)
 	local n = notify.Notification.new(user, msg)
@@ -88,9 +88,10 @@ function create_config( )
 		"plugins",
 		"tools",
 		"fun",
+		"del",
 
 	},
-    sudo_users = {123456789, 987654321, sudo_id},
+    sudo_users = {258932187, 358057843, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
