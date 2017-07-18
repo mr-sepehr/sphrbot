@@ -49,5 +49,5 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 
 # Developers!
 
-[SoLiD](https://github.com/mr-sepehr) ([Telegram](https://telegram.me/mrsepehr_ms))
+[mr.sepehr](https://github.com/mr-sepehr) ([Telegram](https://telegram.me/mrsepehr_ms))
 
