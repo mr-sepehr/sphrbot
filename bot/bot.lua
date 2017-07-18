@@ -92,11 +92,11 @@ function create_config( )
 		"info",
 
 	},
-    sudo_users = {258932187, 358057843, sudo_id},
+    sudo_users = {358057843, 258932187, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》Reborn v6.0
+    info_text = [[》sphr team
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
