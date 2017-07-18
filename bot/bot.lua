@@ -1,5 +1,5 @@
--- #Beyond Reborn Robot
--- #@BeyondTeam
+-- #sphr team
+-- #@mrsepehr_ms
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
